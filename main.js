@@ -1,4 +1,6 @@
 const printForLoop = require('./forLoop');
-const printtWhileLoop = require('./whileLoop');
+const printWhileLoop = require('./whileLoop');
+const printForEach = require('./forEach');
 printForLoop();
-printtWhileLoop();
+printWhileLoop();
+printForEach();
