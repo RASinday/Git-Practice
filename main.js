@@ -1,1 +1,3 @@
-"Main"
+const printForLoop = require('./forLoop');
+
+printForLoop();
